@@ -16,8 +16,10 @@
 
 .btn--small {
     font-size: 14px;
+    padding: 10px;
 }
 
 .btn--medium {
     font-size: 18px;
+    padding: 12px;
 }
