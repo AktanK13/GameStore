@@ -11,4 +11,6 @@
     width: 27%;
     font-size: 18px;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
 }
